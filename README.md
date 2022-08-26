@@ -23,7 +23,7 @@ The next step I took was to create a table that showed the success, failure, and
 
 ## Results
 - May is the most successful launch month based on the data. There were 111 successful campaigns launched in that month which is more than any of the other months. December seems to be the worst launch month based on the data. There were only 37 successful campaigns launched in the month of December compared to 35 that failed in the same month.
-- 
+
 - It appears that a campaign funding goal of under $20,000 gives someone the best chance to achieve their funding goal. The odds of achieving a funding goal reached 50/50 when the goal was between $15,000 and $19,999. However, the data also shows that the odds of a campaign successfully achieving goal funding are around 67% when the goal is between $35,000 and $44,999.
 
 - What are some limitations of this dataset?
