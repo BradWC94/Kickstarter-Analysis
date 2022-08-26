@@ -22,6 +22,8 @@ The next step I took was to create a table that showed the success, failure, and
 ![Outcomes_vs_Goals.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Results
+- May is the most successful launch month based on the data. There were 111 successful campaigns launched in that month which is more than any of the other months. December seems to be the worst launch month based on the data. There were only 37 successful campaigns launched in the month of December compared to 35 that failed in the same month.
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
