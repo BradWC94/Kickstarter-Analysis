@@ -8,24 +8,18 @@ Louise is a playwright currently running a campaing to raise funds for her play,
 The purpose of the project is to give Louise some insignt to how similar funding campaigns performed in relation to launch dates and funding goals.
 
 ## Analysis and Challenges
-My analysis began by creating a pivot table that allowed me to analyze the outcomes of different funding campaigns in relation to their launch dates. The pivot table showed the launch dates of campaigns (according to month) over several years. I then created a line chart based on the pivot table so that it would be easier to visualize.
+My analysis began by creating a pivot table that allowed me to look at the outcomes of different funding campaigns in relation to their launch dates. The pivot table showed the launch dates of campaigns (according to month) over several years. I then created a line chart based on the pivot table so that it would be easier to visualize.
 
 ![Theater Outcomes Based on Launch.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png) 
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png) 
 
 
-The next step I took was to create a table that showed the success, failure, and cancelation percentages of different funding campaigns grouped in relation to their goal funding. I did this in order to analyze the outcomes of different funding campaigns in relation to their funding goals. After this I reated a line chart so that the data would be easier to visualize.
+The next step I took was to create a table that showed the success, failure, and cancelation percentages of different funding campaigns grouped in relation to the amount of their goal funding. I did this in order to analyze the outcomes of different funding campaigns in relation to their funding goals. After this I reated a line chart so that the data would be easier to visualize.
 
 ![Theater Outcomes Based on Goals.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Goals.png)
 
 ![Outcomes_vs_Goals.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png)
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
 
 ## Results
 
