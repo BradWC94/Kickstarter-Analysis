@@ -10,7 +10,7 @@ The purpose of the project is to give Louise some insignt to how similar funding
 ## Analysis and Challenges
 My analysis began by creating a pivot table that allowed me to analyze the outcomes of different funding campaigns in relation to their launch dates. The pivot table showed the launch dates of campaigns (according to month) over several years. I then created a line chart based on the pivot table so that it would be easier to visualize.
 
-
+![Theater Outcomes Based on Launch.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png)
 
 The next step I took was to create a table that showed the success, failure, and cancelation percentages of different funding campaigns grouped in relation to their goal funding. I did this in order to analyze the outcomes of different funding campaigns in relation to their funding goals. After this I reated a line chart so that the data would be easier to visualize.
 
