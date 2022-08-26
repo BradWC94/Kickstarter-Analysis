@@ -22,9 +22,6 @@ The next step I took was to create a table that showed the success, failure, and
 ![Outcomes_vs_Goals.png](https://github.com/BradWC94/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
